@@ -1,0 +1,24 @@
+{
+    "name": "permg/di",
+    "description": "psr/container",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Permgps\\DI\\": "src/"
+        }
+    },
+    "require": {
+        "psr/container": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Alexandr",
+            "email": "perm.gps@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
