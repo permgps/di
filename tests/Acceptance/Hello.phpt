@@ -4,7 +4,7 @@ Basic test
 Lowlevel basic test
 --FILE--
 <?php
-echo 'Hello World!';
+echo 'Hello World! 1';
 ?>
 --EXPECT--
-Hello World!
+Hello World! 1
